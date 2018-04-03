@@ -1,0 +1,20 @@
+{
+  "name": "npm-init",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/newchen/npm-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/newchen/npm-init/issues"
+  },
+  "homepage": "https://github.com/newchen/npm-init",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": ""
+}
